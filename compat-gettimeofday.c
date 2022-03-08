@@ -2,7 +2,7 @@
 
 #if HAVE_GETTIMEOFDAY
 
-int dummy;
+static int dummy;
 
 #else
 
