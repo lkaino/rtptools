@@ -2,7 +2,7 @@
 
 #if HAVE_ERR
 
-int dummy;
+static int dummy;
 
 #else
 
