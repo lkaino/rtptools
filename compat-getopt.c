@@ -2,7 +2,7 @@
 
 #if HAVE_GETOPT
 
-int dummy;
+static int dummy;
 
 #else
 
